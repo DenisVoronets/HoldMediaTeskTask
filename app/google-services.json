@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750659543522",
+    "firebase_url": "https://new-test-project-d17.firebaseio.com",
+    "project_id": "new-test-project-d17",
+    "storage_bucket": "new-test-project-d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750659543522:android:4d464e5e01bbee316fd9bb",
+        "android_client_info": {
+          "package_name": "com.testapp.passgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750659543522-v80dh6524vibbpf2geo43dcuhised44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qV9j9j4GO5HWZP5RcsBC6FDmBnahacg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750659543522-v80dh6524vibbpf2geo43dcuhised44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

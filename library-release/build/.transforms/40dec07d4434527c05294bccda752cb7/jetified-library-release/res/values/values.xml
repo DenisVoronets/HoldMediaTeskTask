@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="hide_pull_to_refresh">true</bool>
+    <bool name="show_fullscreen">true</bool>
+    <bool name="show_menu">true</bool>
+    <string name="action_backward"/>
+    <string name="action_forward"/>
+    <string name="action_home"/>
+    <string name="action_refresh"/>
+    <string name="download_again"/>
+    <string name="download_folder_name"/>
+    <string name="key_weburl"/>
+    <string name="msg_already_downloaded"/>
+    <string name="msg_file_save"/>
+    <string name="share_with"/>
+</resources>
